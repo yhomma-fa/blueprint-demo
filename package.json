@@ -1,0 +1,7 @@
+{
+  "name": "blueprint-demo",
+  "version": "1.0.0",
+  "devDependencies": {
+    "aglio": "^2.3.0"
+  }
+}
